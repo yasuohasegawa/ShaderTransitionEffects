@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D9B11779-CF36-CCF9-2934-3DDA5F9CD884}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TransitionEffect/TransitionEffect.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TransitionEffect/TransitionEffect.cs" Line="77" Column="58" />
+      <File FileName="Assets/Scripts/TransitionEffect/TransitionEffect2.shader" Line="71" Column="45" />
+      <File FileName="Assets/Scripts/TransitionEffect/TransitionEffect3.shader" Line="50" Column="14" />
+      <File FileName="Assets/Scripts/TransitionEffect/TransitionEffect.shader" Line="62" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShaderTransitionEffects" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="TransitionEffect" expanded="True">
+                  <Node name="TransitionEffect.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9f3b8579-9aa8-45a4-b175-977d4cbe334f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
